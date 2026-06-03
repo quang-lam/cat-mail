@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cat Mail</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700&family=Nunito:wght@500;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <main class="app" aria-live="polite">
+    <section class="oracle-shell" id="oracleShell">
+      <header class="topbar">
+        <div>
+          <h1 class="brand-title">
+            <img class="mail-title-art" src="./assets/images/mail.png" alt="">
+            <span>Cat Mail</span>
+          </h1>
+        </div>
+
+        <div class="controls">
+          <button class="paw-toggle" id="soundToggle" type="button" aria-pressed="true" aria-label="Toggle audio">
+            <img src="./assets/images/paw.png" alt="">
+            <span>Audio</span>
+          </button>
+          <div class="counter" aria-label="Consultation count">
+            <span id="count">0</span>
+            <small>consults</small>
+          </div>
+        </div>
+      </header>
+
+      <section class="stage" aria-label="Cat mail reading">
+        <div class="cat-portrait-wrap" id="portraitWrap">
+          <img class="cat-portrait" id="catPortrait" src="./assets/images/cats/cat-1.png" alt="The chosen mail cat">
+        </div>
+
+        <article class="reading-card idle" id="readingCard">
+          <p class="category" id="category">Awaiting delivery</p>
+          <p class="message" id="message">Tap the box and receive a message from the cat mail room.</p>
+          <p class="rarity" id="rarity">Standard delivery</p>
+        </article>
+
+        <button class="ask-button" id="askButton" type="button" aria-label="Open Cat Mail">
+          <span class="box-shadow"></span>
+          <img src="./assets/images/box.png" alt="">
+          <span class="ask-label">Open Cat Mail</span>
+        </button>
+      </section>
+    </section>
+
+    <div class="paw-field" id="pawField" aria-hidden="true"></div>
+    <audio id="backgroundMusic" src="./assets/audio/background-music.mp3" preload="auto"></audio>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
