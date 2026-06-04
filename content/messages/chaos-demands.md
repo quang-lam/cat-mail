@@ -1,0 +1,52 @@
+# Chaos & Demands
+
+- If tired, sleep. If not tired, cause problems.
+- The zoomies are a valid life strategy.
+- Push the cup. Learn what gravity wants.
+- The plan is simple: sprint, freeze, deny everything.
+- A mystery noise at 3:07 AM builds character.
+- Bite the blanket. Become the storm.
+- Enter the room. Forget your mission. Yell anyway.
+- All objects near edges are temporary.
+- Sprint sideways to keep the furniture humble.
+- If it crinkles, it is legally yours.
+- Begin with a plan. End inside a bag.
+- Knock once for attention, twice for science.
+- Sit in the square of paper. It is a portal.
+- The rules are simple: there are no rules near string.
+- Attack the invisible enemy behind the curtain.
+- Become long. Become liquid. Become inconvenient.
+- If the human says no, become fluffier.
+- The hallway has requested thunder.
+- Every rug is a sled if you believe.
+- Stare at the corner until the corner confesses.
+- A box is empty only to nonbelievers.
+- Make eye contact before committing nonsense.
+- The plant started it.
+- If bored, invent a crisis with bells.
+- Open drawer. Enter drawer. Become drawer.
+- Treat quota not yet met.
+- The council requests additional pets.
+- Open the door. No, the other side of the door.
+- Your lap has been marked for immediate occupation.
+- The bowl is visibly empty in the emotional sense.
+- A blanket tribute is due before sunset.
+- Please provide one warm laptop and three compliments.
+- The cat requires attention, but only incorrectly timed attention.
+- Immediate lap availability has been requested.
+- The mail room requires a shrimp-scented stamp.
+- Please open the box for inspection and emotional reasons.
+- One forehead kiss has been scheduled without your input.
+- The council requests that dinner happen early and again later.
+- Please refill the bowl that still contains food.
+- All blankets must be pre-warmed by a trusted human.
+- The cat demands password access to the snack cabinet.
+- A cardboard box tax is now in effect.
+- The council requires pets, then no pets, then pets.
+- Your chair has been reassigned.
+- Please provide fresh water in a forbidden cup.
+- The window must be opened to exactly sniff-width.
+- All laundry piles are to remain available for nesting.
+- A treat audit will begin immediately.
+- Please stop moving the warm rectangle.
+- The cat requests an audience and a softer voice.

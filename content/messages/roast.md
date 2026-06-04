@@ -1,0 +1,52 @@
+# Roast
+
+- You checked the fridge again like new food would appear.
+- I watched you lose your phone while holding it.
+- Bold of you to call that a schedule.
+- Your tabs have tabs. Seek help or treats.
+- You walked into a room and forgot why. Classic human firmware.
+- The cat saw your screen time and looked away respectfully.
+- You said five more minutes three naps ago.
+- That outfit says laundry day with confidence.
+- You opened the same app to remember why you opened the app.
+- Your to-do list has developed lore.
+- You bought a planner and immediately became its emotional support human.
+- The cat heard your budget and hid the receipt.
+- You have 47 mugs and still use the weird one.
+- Your phone battery has more boundaries than you.
+- You call it multitasking. The cat calls it scattered kibble.
+- You reheated coffee and abandoned it like a subplot.
+- The laundry chair is now legally a landmark.
+- You whispered "quick question" and opened a portal.
+- The cat watched you type the wrong password with conviction.
+- You saved a file named final_final_for_real. Bold.
+- Your calendar looks like it was assembled during zoomies.
+- You own scissors and still tear packages like chaos in socks.
+- The cat respects your confidence, not your execution.
+- You said you were leaving early and then negotiated with socks.
+- Your inbox is just a haunted scratching post.
+- You tried to relax competitively.
+- The fridge light knows your secrets.
+- You made eye contact with the task and chose the ceiling.
+- Your browser history is mostly symptoms and snacks.
+- You call that a system. The cat calls it piles.
+- The cat has seen your sleep schedule and filed a complaint.
+- You forgot the one thing you wrote on your hand.
+- You have strong opinions for someone eating over the sink.
+- The cat watched you ignore the obvious button.
+- You packed anxiety as your personal item.
+- Your water bottle is decorative at this point.
+- You opened a new note instead of finding the old note.
+- The cat blinked twice at your password reset ritual.
+- You made a list, lost it, and called it mindfulness.
+- Your desktop icons are forming a neighborhood.
+- You said "just one episode" like a tiny liar.
+- The cat heard your alarm and chose disappointment.
+- You are one notification away from becoming mist.
+- Your idea of meal prep is moving leftovers to a clearer container.
+- You stood up too fast and discovered a new personality.
+- The cat respects your drama, but not your pacing.
+- You have a favorite spoon and pretend that is normal.
+- You refreshed the tracking page like you were summoning it.
+- Your charger lives in a different zip code.
+- You called it organized chaos. It is just chaos with labels.

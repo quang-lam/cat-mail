@@ -35,6 +35,8 @@
       <section class="stage" aria-label="Cat mail reading">
         <div class="cat-portrait-wrap" id="portraitWrap">
           <img class="cat-portrait" id="catPortrait" src="./assets/images/cats/cat-1.png" alt="The chosen mail cat">
+          <span class="judgment-brow left" aria-hidden="true"></span>
+          <span class="judgment-brow right" aria-hidden="true"></span>
         </div>
 
         <article class="reading-card idle" id="readingCard">
@@ -49,6 +51,22 @@
           <span class="ask-label">Open Cat Mail</span>
         </button>
       </section>
+
+      <div class="category-menu" id="categoryMenu">
+        <button class="category-menu-button" id="categoryMenuButton" type="button" aria-expanded="false" aria-controls="categoryOptions">
+          <span class="menu-kicker">Delivery type</span>
+          <span class="menu-current" id="selectedCategoryLabel">Random</span>
+        </button>
+
+        <div class="category-options" id="categoryOptions" role="menu" aria-label="Choose message category">
+          <button class="category-option active" type="button" data-category="random" role="menuitemradio" aria-checked="true">Random</button>
+          <button class="category-option" type="button" data-category="wisdom" role="menuitemradio" aria-checked="false">Wisdom</button>
+          <button class="category-option" type="button" data-category="roast" role="menuitemradio" aria-checked="false">Roast</button>
+          <button class="category-option" type="button" data-category="motivation" role="menuitemradio" aria-checked="false">Motivation</button>
+          <button class="category-option" type="button" data-category="chaos-demands" role="menuitemradio" aria-checked="false">Chaos & Demands</button>
+          <button class="category-option" type="button" data-category="wishes" role="menuitemradio" aria-checked="false">Wishes</button>
+        </div>
+      </div>
     </section>
 
     <div class="paw-field" id="pawField" aria-hidden="true"></div>

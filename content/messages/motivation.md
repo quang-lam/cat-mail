@@ -1,0 +1,52 @@
+# Motivation
+
+- You've survived 100% of your awkward conversations.
+- Small progress still counts.
+- You are allowed to begin before you feel majestic.
+- One paw forward is still movement.
+- Drink some water and try again with softer shoulders.
+- You can do the hard thing, then have a snack.
+- Today only needs your next tiny brave choice.
+- Your best is not always loud. Sometimes it purrs.
+- You are allowed to be new at this.
+- A tiny step still changes the room.
+- You can start messy and finish proud.
+- You are more capable than this moment feels.
+- One deep breath counts as a reset.
+- You have handled hard days before.
+- Progress can be quiet and still be real.
+- Your pace is not a character flaw.
+- You do not need perfect energy to begin.
+- Send the email. Future you will exhale.
+- You are learning, even when it feels clumsy.
+- A little courage is still courage.
+- Future you is already grateful for one small action.
+- Try again, but with water nearby.
+- You are not late to your own life.
+- The first draft is allowed to be rough.
+- Your soft heart is not a weakness.
+- You can rest and still be committed.
+- One crossed-off task deserves a tiny celebration.
+- You are doing better than your anxious narrator claims.
+- The impossible thing gets smaller when you touch one edge.
+- You do not have to earn kindness.
+- A calm start is still a start.
+- Your effort matters, even unseen.
+- Let today be good enough on purpose.
+- You can ask for help without losing points.
+- The mountain accepts small progress.
+- You are allowed to take up warm space.
+- A wobble is not a failure.
+- Your next try can be gentler.
+- You can be proud before it is finished.
+- Keep going, but unclench your jaw first.
+- You are not a machine. You are allowed to need care.
+- The next five minutes are manageable.
+- You can make something sweet out of a weird day.
+- Confidence can arrive after action.
+- You deserve patience while you grow.
+- The small win is not small to your nervous system.
+- You can pause without disappearing.
+- Your courage can wear pajamas.
+- You have more choices than panic admits.
+- You are worthy before the checklist is done.

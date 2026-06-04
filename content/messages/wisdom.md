@@ -1,0 +1,52 @@
+# Wisdom
+
+- Not every problem requires action. Some require a nap.
+- The closed door eventually opens. Stare harder.
+- If the sunbeam moves, you move with it.
+- A soft landing is still a landing.
+- Never chase what can be silently judged from a windowsill.
+- Drink water. Stretch. Pretend it was your idea.
+- The quietest paw often owns the room.
+- Rest is not quitting. It is loaf mode.
+- A watched treat bag opens eventually.
+- Trust the slow blink. It knows things.
+- If you cannot fix it, sit on it warmly.
+- Your timing does not need to impress the hallway.
+- Some answers arrive after grooming one paw.
+- The best perch is the one you actually use.
+- Leave room in the day for mysterious staring.
+- A small stretch can reset a large mood.
+- Choose the window with the better light.
+- The loudest worry may only need a snack.
+- You can be soft and still own the couch.
+- Curiosity is useful. So is backing away slowly.
+- Do not sprint through every open door.
+- A clean bowl is a hopeful beginning.
+- When in doubt, lower your shoulders and purr internally.
+- The best plans have escape routes and blankets.
+- If the vibe is wrong, relocate with dignity.
+- You are allowed to outgrow a favorite cardboard box.
+- The moon does not rush the window.
+- Ask for what you need, then look unimpressed.
+- A boundary can be velvet and still be firm.
+- Notice the sunbeam before it moves.
+- Eat the meal. Ignore the performance review.
+- Even graceful creatures miss the jump sometimes.
+- Keep your whiskers out of other people's drama.
+- There is wisdom in leaving one task untouched.
+- The lap you seek may need time to sit down.
+- Make peace with the rug before rolling on it.
+- A quiet no is still a no.
+- Small comforts are not small to the nervous heart.
+- You do not have to explain your nap schedule.
+- Some days the brave thing is drinking water.
+- The shelf is high, but you have climbed before.
+- Let the dust settle before batting at it.
+- A soft place to land is worth arranging.
+- Your instincts deserve a little sunlight.
+- The answer may be under the couch, but not today.
+- Do the next paw-sized thing.
+- You can leave the room without winning it.
+- A slow blink is a whole paragraph.
+- Do not confuse stillness with doing nothing.
+- Choose peace, unless there is ribbon.

@@ -1,0 +1,52 @@
+# Wishes
+
+- Good morning. May your coffee be warm and your first thought be kind.
+- Good night. May your worries clock out before you do.
+- May today bring one small surprise that makes you smile.
+- May your morning feel gentle before it asks anything from you.
+- Wishing you a quiet evening and a softer heart.
+- May tomorrow meet you with patience.
+- Good morning. May your plans unfold without rushing you.
+- Good night. May your dreams feel safe and strange in the best way.
+- May your inbox be lighter than expected.
+- May you find a reason to laugh before noon.
+- Wishing you a day with fewer knots and more deep breaths.
+- May the right words find you at the right time.
+- Good morning. May your energy arrive before your deadlines.
+- Good night. May your room feel peaceful and your pillow behave.
+- May today be kind in tiny, specific ways.
+- Wishing you a little luck and a lot of steadiness.
+- May your next meal taste like comfort.
+- May the weather inside your head clear a little.
+- Good morning. May you start slowly and still get there.
+- Good night. May you forgive yourself for what stayed unfinished.
+- May someone make your day easier without being asked.
+- May your favorite song show up at the perfect moment.
+- Wishing you a brave little beginning.
+- May your evening have room for nothing urgent.
+- May your heart remember it is allowed to rest.
+- Good morning. May today feel possible.
+- Good night. May your mind stop rehearsing old conversations.
+- May the next door open with less effort than expected.
+- Wishing you warmth, clarity, and a snack you actually enjoy.
+- May your phone charge, your shoes cooperate, and your timing be lucky.
+- May you receive good news in an ordinary-looking moment.
+- Good morning. May your first sip fix at least one problem.
+- Good night. May you sleep like you are deeply forgiven.
+- May the hard thing become simpler once you begin.
+- Wishing you fewer spirals and more soft landings.
+- May your day include one excellent little victory.
+- May your shoulders drop before you even notice.
+- Good morning. May you be met with grace before noise.
+- Good night. May tomorrow carry what you cannot carry tonight.
+- May your courage be quiet and available.
+- Wishing you a clean page and a forgiving pace.
+- May you feel proud of something small today.
+- May your plans bend without breaking.
+- Good morning. May the day be sweeter than the forecast.
+- Good night. May the dark feel restful, not heavy.
+- May you be remembered kindly by yourself.
+- Wishing you comfort where you expected pressure.
+- May a tiny good thing interrupt the routine.
+- May your next breath feel like a reset.
+- Good night or good morning, wherever you are in the story.

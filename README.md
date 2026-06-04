@@ -9,14 +9,26 @@ A cute single-page web app that delivers random cat messages from a clickable bo
 ├── index.html
 ├── styles.css
 ├── script.js
+├── content
+│   └── messages
+│       ├── chaos-demands.md
+│       ├── motivation.md
+│       ├── roast.md
+│       ├── wisdom.md
+│       └── wishes.md
 └── assets
     ├── audio
     │   └── background-music.mp3
     └── images
         ├── background.png
         ├── box.png
+        ├── button.png
         ├── mail.png
         ├── paw.png
+        ├── special-council.png
+        ├── ui
+        │   ├── category-button.png
+        │   └── special-council-frame.png
         └── cats
             ├── cat-1.png
             ├── cat-2.png
@@ -30,6 +42,8 @@ A cute single-page web app that delivers random cat messages from a clickable bo
 
 ## Run Locally
 
-Open `index.html` directly in a browser, or serve the folder with any static server.
+Serve the folder with any static server, then open `index.html`.
+
+The app fetches Markdown files from `content/messages`, so opening `index.html` directly as a `file://` URL may block message loading in some browsers.
 
 For GitHub Pages, publish from the repository root so `index.html` can load the relative `./assets/...` paths.

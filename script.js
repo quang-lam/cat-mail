@@ -10,331 +10,16 @@ const catPhotos = [
 ];
 
 const categories = [
-  {
-    key: "wisdom",
-    label: "Wisdom",
-    icon: "😺",
-    messages: [
-      "Not every problem requires action. Some require a nap.",
-      "The closed door eventually opens. Stare harder.",
-      "If the sunbeam moves, you move with it.",
-      "A soft landing is still a landing.",
-      "Never chase what can be silently judged from a windowsill.",
-      "Drink water. Stretch. Pretend it was your idea.",
-      "The quietest paw often owns the room.",
-      "Rest is not quitting. It is loaf mode.",
-      "A watched treat bag opens eventually.",
-      "Trust the slow blink. It knows things.",
-      "If you cannot fix it, sit on it warmly.",
-      "Your timing does not need to impress the hallway.",
-      "Some answers arrive after grooming one paw.",
-      "The best perch is the one you actually use.",
-      "Leave room in the day for mysterious staring.",
-      "A small stretch can reset a large mood.",
-      "Choose the window with the better light.",
-      "The loudest worry may only need a snack.",
-      "You can be soft and still own the couch.",
-      "Curiosity is useful. So is backing away slowly.",
-      "Do not sprint through every open door.",
-      "A clean bowl is a hopeful beginning.",
-      "When in doubt, lower your shoulders and purr internally.",
-      "The best plans have escape routes and blankets.",
-      "If the vibe is wrong, relocate with dignity.",
-      "You are allowed to outgrow a favorite cardboard box.",
-      "The moon does not rush the window.",
-      "Ask for what you need, then look unimpressed.",
-      "A boundary can be velvet and still be firm.",
-      "Notice the sunbeam before it moves.",
-      "Eat the meal. Ignore the performance review.",
-      "Even graceful creatures miss the jump sometimes.",
-      "Keep your whiskers out of other people's drama.",
-      "There is wisdom in leaving one task untouched.",
-      "The lap you seek may need time to sit down.",
-      "Make peace with the rug before rolling on it.",
-      "A quiet no is still a no.",
-      "Small comforts are not small to the nervous heart.",
-      "You do not have to explain your nap schedule.",
-      "Some days the brave thing is drinking water.",
-      "The shelf is high, but you have climbed before.",
-      "Let the dust settle before batting at it.",
-      "A soft place to land is worth arranging.",
-      "Your instincts deserve a little sunlight.",
-      "The answer may be under the couch, but not today.",
-      "Do the next paw-sized thing.",
-      "You can leave the room without winning it.",
-      "A slow blink is a whole paragraph.",
-      "Do not confuse stillness with doing nothing.",
-      "Choose peace, unless there is ribbon."
-    ]
-  },
-  {
-    key: "roast",
-    label: "Roast",
-    icon: "🔥",
-    messages: [
-      "You checked the fridge again like new food would appear.",
-      "I watched you lose your phone while holding it.",
-      "Bold of you to call that a schedule.",
-      "Your tabs have tabs. Seek help or treats.",
-      "You walked into a room and forgot why. Classic human firmware.",
-      "The cat saw your screen time and looked away respectfully.",
-      "You said five more minutes three naps ago.",
-      "That outfit says laundry day with confidence.",
-      "You opened the same app to remember why you opened the app.",
-      "Your to-do list has developed lore.",
-      "You bought a planner and immediately became its emotional support human.",
-      "The cat heard your budget and hid the receipt.",
-      "You have 47 mugs and still use the weird one.",
-      "Your phone battery has more boundaries than you.",
-      "You call it multitasking. The cat calls it scattered kibble.",
-      "You reheated coffee and abandoned it like a subplot.",
-      "The laundry chair is now legally a landmark.",
-      "You whispered 'quick question' and opened a portal.",
-      "The cat watched you type the wrong password with conviction.",
-      "You saved a file named final_final_for_real. Bold.",
-      "Your calendar looks like it was assembled during zoomies.",
-      "You own scissors and still tear packages like chaos in socks.",
-      "The cat respects your confidence, not your execution.",
-      "You said you were leaving early and then negotiated with socks.",
-      "Your inbox is just a haunted scratching post.",
-      "You tried to relax competitively.",
-      "The fridge light knows your secrets.",
-      "You made eye contact with the task and chose the ceiling.",
-      "Your browser history is mostly symptoms and snacks.",
-      "You call that a system. The cat calls it piles.",
-      "The cat has seen your sleep schedule and filed a complaint.",
-      "You forgot the one thing you wrote on your hand.",
-      "You have strong opinions for someone eating over the sink.",
-      "The cat watched you ignore the obvious button.",
-      "You packed anxiety as your personal item.",
-      "Your water bottle is decorative at this point.",
-      "You opened a new note instead of finding the old note.",
-      "The cat blinked twice at your password reset ritual.",
-      "You made a list, lost it, and called it mindfulness.",
-      "Your desktop icons are forming a neighborhood.",
-      "You said 'just one episode' like a tiny liar.",
-      "The cat heard your alarm and chose disappointment.",
-      "You are one notification away from becoming mist.",
-      "Your idea of meal prep is moving leftovers to a clearer container.",
-      "You stood up too fast and discovered a new personality.",
-      "The cat respects your drama, but not your pacing.",
-      "You have a favorite spoon and pretend that is normal.",
-      "You refreshed the tracking page like you were summoning it.",
-      "Your charger lives in a different zip code.",
-      "You called it organized chaos. It is just chaos with labels."
-    ]
-  },
-  {
-    key: "motivation",
-    label: "Motivation",
-    icon: "✨",
-    messages: [
-      "You've survived 100% of your awkward conversations.",
-      "Small progress still counts.",
-      "You are allowed to begin before you feel majestic.",
-      "One paw forward is still movement.",
-      "Drink some water and try again with softer shoulders.",
-      "You can do the hard thing, then have a snack.",
-      "Today only needs your next tiny brave choice.",
-      "Your best is not always loud. Sometimes it purrs.",
-      "You are allowed to be new at this.",
-      "A tiny step still changes the room.",
-      "You can start messy and finish proud.",
-      "The cat believes in you, probably.",
-      "One deep breath counts as a reset.",
-      "You have handled hard days before.",
-      "Progress can be quiet and still be real.",
-      "Your pace is not a character flaw.",
-      "You do not need perfect energy to begin.",
-      "Send the email. The cat will supervise.",
-      "You are learning, even when it feels clumsy.",
-      "A little courage is still courage.",
-      "Future you is already grateful for one small action.",
-      "Try again, but with water nearby.",
-      "You are not late to your own life.",
-      "The first draft is allowed to shed.",
-      "Your soft heart is not a weakness.",
-      "You can rest and still be committed.",
-      "One crossed-off task deserves a tiny celebration.",
-      "You are doing better than your anxious narrator claims.",
-      "The box looked impossible until the cat got inside.",
-      "You do not have to earn kindness.",
-      "A calm start is still a start.",
-      "Your effort matters, even unseen.",
-      "Let today be good enough on purpose.",
-      "You can ask for help without losing points.",
-      "The mountain accepts paw-sized progress.",
-      "You are allowed to take up warm space.",
-      "A wobble is not a failure.",
-      "Your next try can be gentler.",
-      "The cat has approved your comeback arc.",
-      "You can be proud before it is finished.",
-      "Keep going, but unclench your jaw first.",
-      "You are not a machine. You are allowed to need care.",
-      "The next five minutes are manageable.",
-      "You can make something sweet out of a weird day.",
-      "Confidence can arrive after action.",
-      "You deserve patience while you grow.",
-      "The small win is not small to your nervous system.",
-      "You can pause without disappearing.",
-      "Your courage can wear pajamas.",
-      "You have more choices than panic admits."
-    ]
-  },
-  {
-    key: "chaos",
-    label: "Chaos",
-    icon: "🌪",
-    messages: [
-      "If tired, sleep. If not tired, cause problems.",
-      "The zoomies are a valid life strategy.",
-      "Push the cup. Learn what gravity wants.",
-      "The plan is simple: sprint, freeze, deny everything.",
-      "A mystery noise at 3:07 AM builds character.",
-      "Bite the blanket. Become the storm.",
-      "Enter the room. Forget your mission. Yell anyway.",
-      "All objects near edges are temporary.",
-      "Sprint sideways to keep the furniture humble.",
-      "If it crinkles, it is legally yours.",
-      "Begin with a plan. End inside a bag.",
-      "Knock once for attention, twice for science.",
-      "Sit in the square of paper. It is a portal.",
-      "The rules are simple: there are no rules near string.",
-      "Attack the invisible enemy behind the curtain.",
-      "Become long. Become liquid. Become inconvenient.",
-      "If the human says no, become fluffier.",
-      "The hallway has requested thunder.",
-      "Every rug is a sled if you believe.",
-      "Stare at the corner until the corner confesses.",
-      "A box is empty only to nonbelievers.",
-      "Make eye contact before committing nonsense.",
-      "The plant started it.",
-      "If bored, invent a crisis with bells.",
-      "Open drawer. Enter drawer. Become drawer.",
-      "The spoon is suspicious. Investigate loudly.",
-      "Sleep in the laundry to add fur seasoning.",
-      "Demand entrance. Reject entrance. Repeat.",
-      "The keyboard is warm and full of forbidden spells.",
-      "If the bag has handles, choose violence.",
-      "A single sock can change destiny.",
-      "Hide somewhere obvious and act betrayed.",
-      "The water bowl is fine, but the cup is destiny.",
-      "Everything is a toy after midnight.",
-      "Interrupt the call with executive presence.",
-      "The curtain moved. This is war.",
-      "Step on the remote and let fate pick a channel.",
-      "If it rolls, chase it under the heaviest thing.",
-      "Leap first. Invent dignity during landing.",
-      "The couch has secrets in its ribs.",
-      "Three bites of food, then a victory lap.",
-      "The bathroom door is a constitutional issue.",
-      "Become small enough for the forbidden shelf.",
-      "If silence falls, prepare the crash.",
-      "The mirror cat knows too much.",
-      "Lick the tape. Regret nothing.",
-      "A dangling cord is a philosophical invitation.",
-      "Turn around exactly seven times, then choose mayhem.",
-      "The treat puzzle is solvable with brute force.",
-      "Exist dramatically in the doorway."
-    ]
-  },
-  {
-    key: "demands",
-    label: "Cat Demands",
-    icon: "🍤",
-    messages: [
-      "Treat quota not yet met.",
-      "The council requests additional pets.",
-      "Open the door. No, the other side of the door.",
-      "Your lap has been marked for immediate occupation.",
-      "The bowl is visibly empty in the emotional sense.",
-      "A blanket tribute is due before sunset.",
-      "Please provide one warm laptop and three compliments.",
-      "The cat requires attention, but only incorrectly timed attention.",
-      "Immediate lap availability has been requested.",
-      "The mail room requires a shrimp-scented stamp.",
-      "Please open the box for inspection and emotional reasons.",
-      "One forehead kiss has been scheduled without your input.",
-      "The council requests that dinner happen early and again later.",
-      "Please refill the bowl that still contains food.",
-      "All blankets must be pre-warmed by a trusted human.",
-      "The cat demands password access to the snack cabinet.",
-      "A cardboard box tax is now in effect.",
-      "The council requires pets, then no pets, then pets.",
-      "Your chair has been reassigned.",
-      "Please provide fresh water in a forbidden cup.",
-      "The window must be opened to exactly sniff-width.",
-      "All laundry piles are to remain available for nesting.",
-      "A treat audit will begin immediately.",
-      "Please stop moving the warm rectangle.",
-      "The cat requests an audience and a softer voice.",
-      "The council demands you sit down so the lap can happen.",
-      "A ceremonial can opening is overdue.",
-      "The mail cat requires tribute before delivery.",
-      "Please remove the invisible problem from the hallway.",
-      "The box must remain in the living room for six to eight weeks.",
-      "A second breakfast has been emotionally approved.",
-      "Please praise the jump you were not watching.",
-      "The cat demands hallway escort services.",
-      "All closed doors must submit to inspection.",
-      "The council requests a blanket fort with legal ownership transfer.",
-      "Please pretend you did not see the failed jump.",
-      "A sunbeam reservation has been made in your name.",
-      "The cat demands both hands, but only briefly.",
-      "Please place the toy exactly where it was ignored yesterday.",
-      "The council requires a snack with crunchy acoustics.",
-      "Your pillow is now community property.",
-      "Please hold still while being used as furniture.",
-      "The cat requests one compliment and zero follow-up questions.",
-      "A window report is due at once.",
-      "Please provide emotional support while the cat ignores you.",
-      "The council demands that the vacuum apologize.",
-      "Your sleeve has been selected for biscuit practice.",
-      "Please deliver one treat to the tiny mouth at floor level.",
-      "The cat requests privacy, loudly and in your room.",
-      "All fish imagery must be surrendered to the mail department."
-    ]
-  }
+  { key: "wisdom", label: "Wisdom", icon: "😺", file: "./content/messages/wisdom.md", cardClass: "wisdom" },
+  { key: "roast", label: "Roast", icon: "🔥", file: "./content/messages/roast.md", cardClass: "roast" },
+  { key: "motivation", label: "Motivation", icon: "✨", file: "./content/messages/motivation.md", cardClass: "motivation" },
+  { key: "chaos-demands", label: "Chaos & Demands", icon: "🌪", file: "./content/messages/chaos-demands.md", cardClass: "chaos" },
+  { key: "wishes", label: "Wishes", icon: "🌙", file: "./content/messages/wishes.md", cardClass: "wishes" }
 ];
 
-const rareMessages = [
-  {
-    key: "wisdom",
-    label: "Rare Wisdom",
-    icon: "😺",
-    text: "A person who can apologize to a cat can probably handle growth."
-  },
-  {
-    key: "roast",
-    label: "Rare Roast",
-    icon: "🔥",
-    text: "Your password hint is probably just panic wearing a hat."
-  },
-  {
-    key: "motivation",
-    label: "Rare Motivation",
-    icon: "✨",
-    text: "You are not behind. You are arriving with dramatic timing."
-  },
-  {
-    key: "chaos",
-    label: "Rare Chaos",
-    icon: "🌪",
-    text: "Reality is negotiable if you yell at it from the hallway."
-  },
-  {
-    key: "demands",
-    label: "Rare Demand",
-    icon: "🍤",
-    text: "The council has voted 8-0 in favor of snack reparations."
-  }
-];
-
-const legendaryMessages = [
-  "LEGENDARY PROPHECY: The chosen cat grants you one guilt-free rest day.",
-  "SECRET CAT LAW: You may ignore one tiny crisis. The council will handle it by sitting nearby.",
-  "MYTHIC BOOP: Your next brave choice receives a silent paw stamp of approval."
-];
+const categoriesByKey = new Map(categories.map((category) => [category.key, category]));
+const messagesByCategory = new Map();
+const musicLoopSeconds = 45;
 
 const askButton = document.querySelector("#askButton");
 const readingCard = document.querySelector("#readingCard");
@@ -347,18 +32,77 @@ const countEl = document.querySelector("#count");
 const pawField = document.querySelector("#pawField");
 const soundToggle = document.querySelector("#soundToggle");
 const backgroundMusic = document.querySelector("#backgroundMusic");
+const categoryMenu = document.querySelector("#categoryMenu");
+const categoryMenuButton = document.querySelector("#categoryMenuButton");
+const categoryOptions = document.querySelectorAll(".category-option");
+const selectedCategoryLabel = document.querySelector("#selectedCategoryLabel");
+const askLabel = document.querySelector(".ask-label");
 
 let consultCount = 0;
 let soundOn = true;
 let audioContext;
-const musicLoopSeconds = 45;
+let selectedCategory = "random";
+let messagesLoaded = false;
+let councilInterventionActive = false;
 
 backgroundMusic.volume = 0.28;
 backgroundMusic.addEventListener("timeupdate", loopTrimmedBackgroundMusic);
 backgroundMusic.addEventListener("ended", loopTrimmedBackgroundMusic);
 
 askButton.addEventListener("click", askTheCat);
-soundToggle.addEventListener("click", () => {
+soundToggle.addEventListener("click", toggleSound);
+categoryMenuButton.addEventListener("click", toggleCategoryMenu);
+document.addEventListener("click", closeCategoryMenuOnOutsideClick);
+document.addEventListener("keydown", closeCategoryMenuOnEscape);
+categoryOptions.forEach((button) => {
+  button.addEventListener("click", () => selectCategory(button.dataset.category));
+});
+
+loadMessages();
+
+async function loadMessages() {
+  askButton.disabled = true;
+  askButton.setAttribute("aria-disabled", "true");
+  messageEl.textContent = "Sorting the mail bag...";
+  rarityEl.textContent = "Loading deliveries";
+
+  try {
+    await Promise.all(categories.map(loadCategoryMessages));
+    messagesLoaded = true;
+    askButton.disabled = false;
+    askButton.setAttribute("aria-disabled", "false");
+    messageEl.textContent = "Choose a category or keep Random, then open Cat Mail.";
+    rarityEl.textContent = "Ready for delivery";
+  } catch (error) {
+    console.error(error);
+    messageEl.textContent = "The mail bag could not be opened. Try serving this folder with a local static server.";
+    rarityEl.textContent = "Delivery paused";
+  }
+}
+
+async function loadCategoryMessages(category) {
+  const response = await fetch(category.file);
+
+  if (!response.ok) {
+    throw new Error(`Could not load ${category.file}`);
+  }
+
+  const markdown = await response.text();
+  const messages = markdown
+    .split(/\r?\n/)
+    .map((line) => line.trim())
+    .filter((line) => line.startsWith("- "))
+    .map((line) => line.slice(2).trim())
+    .filter(Boolean);
+
+  if (messages.length !== 50) {
+    console.warn(`${category.label} has ${messages.length} messages. Expected 50.`);
+  }
+
+  messagesByCategory.set(category.key, messages);
+}
+
+function toggleSound() {
   soundOn = !soundOn;
   soundToggle.setAttribute("aria-pressed", String(soundOn));
 
@@ -367,20 +111,73 @@ soundToggle.addEventListener("click", () => {
   } else {
     backgroundMusic.pause();
   }
-});
+}
+
+function selectCategory(categoryKey) {
+  selectedCategory = categoryKey;
+  selectedCategoryLabel.textContent = getCategoryLabel(categoryKey);
+
+  categoryOptions.forEach((button) => {
+    const isActive = button.dataset.category === categoryKey;
+    button.classList.toggle("active", isActive);
+    button.setAttribute("aria-checked", String(isActive));
+  });
+
+  setCategoryMenuOpen(false);
+}
+
+function toggleCategoryMenu(event) {
+  event.stopPropagation();
+  setCategoryMenuOpen(!categoryMenu.classList.contains("open"));
+}
+
+function closeCategoryMenuOnOutsideClick(event) {
+  if (!categoryMenu.contains(event.target)) {
+    setCategoryMenuOpen(false);
+  }
+}
+
+function closeCategoryMenuOnEscape(event) {
+  if (event.key === "Escape") {
+    setCategoryMenuOpen(false);
+    categoryMenuButton.focus();
+  }
+}
+
+function setCategoryMenuOpen(isOpen) {
+  categoryMenu.classList.toggle("open", isOpen);
+  categoryMenuButton.setAttribute("aria-expanded", String(isOpen));
+}
+
+function getCategoryLabel(categoryKey) {
+  if (categoryKey === "random") return "Random";
+
+  return categoriesByKey.get(categoryKey)?.label ?? "Random";
+}
 
 function askTheCat() {
+  if (!messagesLoaded) return;
+
+  if (councilInterventionActive) {
+    resetCouncilIntervention();
+  }
+
   consultCount += 1;
   countEl.textContent = consultCount;
+
+  if (consultCount === 20) {
+    showCouncilIntervention();
+    return;
+  }
 
   const reading = getReading();
   const cat = pick(catPhotos);
 
   catPortrait.src = cat;
-  readingCard.className = `reading-card ${reading.key}${reading.legendary ? " legendary" : ""}`;
+  readingCard.className = `reading-card ${reading.cardClass}`;
   categoryEl.textContent = `${reading.icon} ${reading.label}`;
   messageEl.textContent = reading.text;
-  rarityEl.textContent = reading.rarity;
+  rarityEl.textContent = reading.detail;
 
   restartAnimation(readingCard);
   restartAnimation(portraitWrap, "show");
@@ -390,41 +187,51 @@ function askTheCat() {
 
   burstPaws();
   startBackgroundMusic();
-  playCatChirp(reading.legendary);
+  playCatChirp();
+}
+
+function showCouncilIntervention() {
+  councilInterventionActive = true;
+  catPortrait.src = "./assets/images/cats/cat-8.png";
+  readingCard.className = "reading-card council";
+  categoryEl.textContent = "Council Notice";
+  messageEl.textContent = "You have consulted the council 20 times today.\nAt this point you are just gambling.";
+  rarityEl.textContent = "Mild judgment has been delivered";
+  askLabel.textContent = "Ask Again Anyway";
+  askButton.setAttribute("aria-label", "Ask Again Anyway");
+
+  restartAnimation(readingCard);
+  restartAnimation(portraitWrap, "show");
+  portraitWrap.classList.add("judgmental");
+  askButton.classList.remove("summoning");
+  void askButton.offsetWidth;
+  askButton.classList.add("summoning");
+
+  burstPaws();
+  startBackgroundMusic();
+  playCatChirp();
+}
+
+function resetCouncilIntervention() {
+  councilInterventionActive = false;
+  consultCount = 0;
+  countEl.textContent = consultCount;
+  askLabel.textContent = "Open Cat Mail";
+  askButton.setAttribute("aria-label", "Open Cat Mail");
+  portraitWrap.classList.remove("judgmental");
 }
 
 function getReading() {
-  const roll = Math.random();
+  const category = selectedCategory === "random"
+    ? pick(categories)
+    : categoriesByKey.get(selectedCategory);
 
-  if (roll < 0.012) {
-    return {
-      key: "legendary",
-      label: "Legendary Mail",
-      icon: "👑",
-      text: pick(legendaryMessages),
-      rarity: "Secret legendary delivery",
-      legendary: true
-    };
-  }
+  const messages = messagesByCategory.get(category.key);
 
-  if (roll < 0.052) {
-    const rare = pick(rareMessages);
-    return {
-      key: rare.key,
-      label: rare.label,
-      icon: rare.icon,
-      text: rare.text,
-      rarity: "Rare delivery"
-    };
-  }
-
-  const category = pick(categories);
   return {
-    key: category.key,
-    label: category.label,
-    icon: category.icon,
-    text: pick(category.messages),
-    rarity: "Standard delivery"
+    ...category,
+    text: pick(messages),
+    detail: selectedCategory === "random" ? `Random delivery: ${category.label}` : `${category.label} delivery`
   };
 }
 
@@ -470,7 +277,7 @@ function burstPaws() {
   }
 }
 
-function playCatChirp(isLegendary) {
+function playCatChirp() {
   if (!soundOn) return;
 
   audioContext ||= new (window.AudioContext || window.webkitAudioContext)();
@@ -483,17 +290,17 @@ function playCatChirp(isLegendary) {
 
   oscillator.type = "sine";
   wobble.type = "triangle";
-  oscillator.frequency.setValueAtTime(isLegendary ? 520 : 430, now);
-  oscillator.frequency.exponentialRampToValueAtTime(isLegendary ? 920 : 690, now + 0.08);
-  oscillator.frequency.exponentialRampToValueAtTime(isLegendary ? 560 : 380, now + 0.22);
+  oscillator.frequency.setValueAtTime(430, now);
+  oscillator.frequency.exponentialRampToValueAtTime(690, now + 0.08);
+  oscillator.frequency.exponentialRampToValueAtTime(380, now + 0.22);
 
   wobble.frequency.setValueAtTime(18, now);
-  wobbleGain.gain.setValueAtTime(isLegendary ? 42 : 28, now);
+  wobbleGain.gain.setValueAtTime(28, now);
   wobble.connect(wobbleGain);
   wobbleGain.connect(oscillator.frequency);
 
   gain.gain.setValueAtTime(0.0001, now);
-  gain.gain.exponentialRampToValueAtTime(isLegendary ? 0.1 : 0.075, now + 0.035);
+  gain.gain.exponentialRampToValueAtTime(0.075, now + 0.035);
   gain.gain.exponentialRampToValueAtTime(0.0001, now + 0.26);
 
   oscillator.connect(gain);
