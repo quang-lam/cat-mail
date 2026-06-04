@@ -158,6 +158,8 @@ function getCategoryLabel(categoryKey) {
 function askTheCat() {
   if (!messagesLoaded) return;
 
+  setCategoryMenuOpen(false);
+
   if (councilInterventionActive) {
     resetCouncilIntervention();
   }

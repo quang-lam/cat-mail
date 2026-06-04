@@ -344,12 +344,12 @@ button {
 
 .reading-card.council {
   --accent: #b66a4f;
-  width: min(100%, 520px);
+  width: min(100%, 500px);
   aspect-ratio: 1020 / 732;
   display: grid;
   align-content: center;
   justify-self: center;
-  padding: clamp(78px, 7.2vw, 104px) clamp(58px, 5.2vw, 72px) clamp(44px, 4.4vw, 58px);
+  padding: 118px 76px 76px;
   border: 0;
   border-radius: 0;
   background: url("./assets/images/ui/special-council-frame.png") center / contain no-repeat;
@@ -366,17 +366,16 @@ button {
 }
 
 .reading-card.council .message {
-  max-width: 18ch;
+  max-width: 22ch;
   margin-inline: auto;
   text-align: center;
-  font-size: clamp(1.45rem, 2.15vw, 2.35rem);
-  line-height: 0.98;
+  font-size: clamp(1.18rem, 1.45vw, 1.55rem);
+  line-height: 1.02;
   text-shadow: 0 2px 0 rgba(255, 255, 255, 0.72);
 }
 
 .reading-card.council .rarity {
-  text-align: center;
-  color: #8b654f;
+  display: none;
 }
 
 .reading-card.legendary {
@@ -846,11 +845,11 @@ button {
 
   .reading-card.council {
     width: min(100%, 360px);
-    padding: 56px 40px 32px;
+    padding: 82px 48px 48px;
   }
 
   .reading-card.council .message {
-    font-size: 1.25rem;
+    font-size: 1.05rem;
   }
 }
 
